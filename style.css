@@ -83,5 +83,17 @@ section{
 background-image: url(images/exp-bg.png);
 background-repeat: no-repeat;
 background-position: left;
-
+}
+#full-stak{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+#lead-generator{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
