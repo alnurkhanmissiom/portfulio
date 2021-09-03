@@ -8,3 +8,15 @@ h1{
 .name-highlight{
  color:lightcoral;
 }
+
+/*Section 1 is start */
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+   
+}
